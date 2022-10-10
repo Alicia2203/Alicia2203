@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-I have good working knowledge in Python, SQL SAS and R.   
+I have good working knowledge in Python, SQL, SAS and R.   
 When it comes to visualisation, I mostly use seaborn or matplotlib libraries in Python, Power BI or Qlik Sense.  
 Learning to use git and GitHub for version control.  
 
