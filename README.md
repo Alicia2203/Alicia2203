@@ -32,6 +32,8 @@ I have good working knowledge in Python, SQL, SAS and R.
 When it comes to visualisation, I mostly use seaborn or matplotlib libraries in Python, Power BI or Qlik Sense.  
 Learning to use git and GitHub for version control.  
 
+[My Resume in PDF](https://github.com/Alicia2203/Alicia-Resume)
+
 ### My Github Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=alicia2203&show_icons=true"/>
 
