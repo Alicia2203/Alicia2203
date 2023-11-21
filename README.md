@@ -5,17 +5,18 @@ You can click the Preview link to take a look at your changes.
 ## 👋 Hi there, Welcome to my Github
 ![Alicia Chong](https://user-images.githubusercontent.com/69787181/194917290-bc950a6f-1afa-43b9-b44a-769fb008a6c0.gif)
 
-- 🎓 I'm a student pursuing a bachelor's degree in Information Systems (Data Analytics) at Sunway University  
+- 🎓 I'm a fresh grad with a bachelor's degree in Information Systems (Data Analytics) at Sunway University  
 - 👀 I’m interested in Data Analytics, Data Science  
-- 💼 I'm seeking a Data Analyst/Data Science intern opportunity to pursue my internship from 12th December 2022 to 10th March 2023    
+- 💼 I'm seeking a Data Analyst/Data Science position    
 - 🌱 I’m currently upskilling myself to be a data nerd  
 -  ⚡ Fun fact: I like creating creative art content during my free time  
 
 ### 📫 How to reach me
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicia22chong@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicia.chong.data@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alicia-chong-acty/) 
 
 ### Technical Tools and Languages
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ➡️
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -23,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
