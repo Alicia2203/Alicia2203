@@ -5,9 +5,8 @@ You can click the Preview link to take a look at your changes.
 ## 👋 Hi there, Welcome to my Github
 ![Alicia Chong](https://user-images.githubusercontent.com/69787181/194917290-bc950a6f-1afa-43b9-b44a-769fb008a6c0.gif)
 
-- 🎓 I'm a fresh grad with a bachelor's degree in Information Systems (Data Analytics) at Sunway University  
-- 👀 I’m interested in Data Analytics, Data Science  
-- 💼 I'm seeking a Data Analyst/Data Science position    
+- 🎓 I'm a fresh grad with a bachelor's degree in **Information Systems (Data Analytics)** at **Sunway University**  
+- 💼 I'm seeking a **Data Analyst / Data Science** position    
 - 🌱 I’m currently upskilling myself to be a data nerd  
 -  ⚡ Fun fact: I like creating creative art content during my free time  
 
