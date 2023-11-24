@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicia.chong.data@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alicia-chong-acty/) 
 
+### Resume
+**[Link to My Resume](https://github.com/Alicia2203/Alicia-Resume/blob/main/Alicia%20Chong%20Tsui%20Ying%20-%20Resume%20-%2020231122.pdf)**
+
 ### Technical Tools and Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ➡️
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -30,8 +33,6 @@ You can click the Preview link to take a look at your changes.
 I have good working knowledge in Python, SQL, SAS and R.   
 When it comes to visualisation, I mostly use seaborn or matplotlib libraries in Python, Power BI or Qlik Sense.  
 Learning to use git and GitHub for version control.  
-
-[My Resume in PDF](https://github.com/Alicia2203/Alicia-Resume)
 
 ### My Github Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=alicia2203&show_icons=true"/>
