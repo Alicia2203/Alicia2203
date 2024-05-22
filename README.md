@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 ## 👋 Hi there, Welcome to my Github
 ![Alicia Chong](https://user-images.githubusercontent.com/69787181/194917290-bc950a6f-1afa-43b9-b44a-769fb008a6c0.gif)
 
-- 🎓 I'm a fresh grad with a bachelor's degree in **Information Systems (Data Analytics)** at **Sunway University**  
-- 💼 I'm seeking a **Data Analyst / Data Science** position    
-- 🌱 I’m currently upskilling myself to be a data nerd  
+- 💼 Working as a **Data Professional (A bit of a Data Enginerr, Data Analyst & Data Scientist)**   
+- 🎓 Obtained a bachelor's degree in **Information Systems (Data Analytics)** at **Sunway University**    
+- 🌱 Upskilling myself to be a data nerd  
 -  ⚡ Fun fact: I like creating creative art content during my free time  
 
 ### 📫 How to reach me
@@ -30,9 +30,8 @@ You can click the Preview link to take a look at your changes.
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-I have good working knowledge in Python, SQL, SAS and R.   
-When it comes to visualisation, I mostly use seaborn or matplotlib libraries in Python, Power BI or Qlik Sense.  
-Learning to use git and GitHub for version control.  
+I have good working knowledge in Python, SQL.   
+When it comes to visualisation, I mostly use seaborn or matplotlib libraries in Python, Power BI.   
 
 ### My Github Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=alicia2203&show_icons=true"/>
