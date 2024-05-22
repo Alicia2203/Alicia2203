@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ## 👋 Hi there, Welcome to my Github
 ![Alicia Chong](https://user-images.githubusercontent.com/69787181/194917290-bc950a6f-1afa-43b9-b44a-769fb008a6c0.gif)
 
-- 💼 Working as a **Data Professional (A bit of a Data Enginerr, Data Analyst & Data Scientist)**   
+- 💼 Working as a **Data Professional (A bit of a Data Engineer, Data Analyst & Data Scientist)**   
 - 🎓 Obtained a bachelor's degree in **Information Systems (Data Analytics)** at **Sunway University**    
 - 🌱 Upskilling myself to be a data nerd  
 -  ⚡ Fun fact: I like creating creative art content during my free time  
